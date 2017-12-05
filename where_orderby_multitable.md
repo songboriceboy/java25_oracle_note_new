@@ -37,7 +37,7 @@
   select * from emp where sal > 2000 or job = 'CLERK'
 ```
 #### not
-not 关键字可以接哪些关键字
+> not 关键字可以接哪些关键字
 - not in
 - not like
 - not between xxx and yyy
