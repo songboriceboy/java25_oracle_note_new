@@ -19,17 +19,17 @@
         <entry file="file://$PROJECT_DIR$/where_orderby_multitable.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="521">
-                <caret line="70" column="30" lean-forward="false" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+              <first_editor relative-caret-position="371">
+                <caret line="64" column="3" lean-forward="false" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
                 <folding>
-                  <marker date="1512440339484" expanded="true" signature="50:99" ph="select * fro... emp" />
-                  <marker date="1512440339484" expanded="true" signature="131:172" ph="select * fro... emp" />
-                  <marker date="1512440339484" expanded="true" signature="213:253" ph="select * fro... emp" />
-                  <marker date="1512440339484" expanded="true" signature="281:317" ph="select * fro... emp" />
-                  <marker date="1512440339484" expanded="true" signature="372:424" ph="select * fro... emp" />
-                  <marker date="1512440339484" expanded="true" signature="447:498" ph="select * fro... emp" />
-                  <marker date="1512440339484" expanded="true" signature="654:697" ph="select * fro... emp" />
-                  <marker date="1512440339484" expanded="true" signature="873:945" ph="select emp.e... emp" />
+                  <marker date="1512452336312" expanded="true" signature="50:99" ph="select * fro... emp" />
+                  <marker date="1512452336312" expanded="true" signature="131:172" ph="select * fro... emp" />
+                  <marker date="1512452336312" expanded="true" signature="213:253" ph="select * fro... emp" />
+                  <marker date="1512452336312" expanded="true" signature="281:317" ph="select * fro... emp" />
+                  <marker date="1512452336312" expanded="true" signature="372:424" ph="select * fro... emp" />
+                  <marker date="1512452336312" expanded="true" signature="447:498" ph="select * fro... emp" />
+                  <marker date="1512452336312" expanded="true" signature="654:697" ph="select * fro... emp" />
+                  <marker date="1512452336312" expanded="true" signature="875:947" ph="select emp.e... emp" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -216,15 +216,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512438377203</updated>
-      <workItem from="1512438875312" duration="1459000" />
+      <workItem from="1512438875312" duration="2188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1459000" />
+    <option name="totallyTimeSpent" value="2188000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1448" height="878" extended-state="6" />
+    <frame x="-4" y="-4" width="1448" height="878" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -271,17 +271,17 @@
     <entry file="file://$PROJECT_DIR$/where_orderby_multitable.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="521">
-            <caret line="70" column="30" lean-forward="false" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+          <first_editor relative-caret-position="371">
+            <caret line="64" column="3" lean-forward="false" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
             <folding>
-              <marker date="1512440339484" expanded="true" signature="50:99" ph="select * fro... emp" />
-              <marker date="1512440339484" expanded="true" signature="131:172" ph="select * fro... emp" />
-              <marker date="1512440339484" expanded="true" signature="213:253" ph="select * fro... emp" />
-              <marker date="1512440339484" expanded="true" signature="281:317" ph="select * fro... emp" />
-              <marker date="1512440339484" expanded="true" signature="372:424" ph="select * fro... emp" />
-              <marker date="1512440339484" expanded="true" signature="447:498" ph="select * fro... emp" />
-              <marker date="1512440339484" expanded="true" signature="654:697" ph="select * fro... emp" />
-              <marker date="1512440339484" expanded="true" signature="873:945" ph="select emp.e... emp" />
+              <marker date="1512452336312" expanded="true" signature="50:99" ph="select * fro... emp" />
+              <marker date="1512452336312" expanded="true" signature="131:172" ph="select * fro... emp" />
+              <marker date="1512452336312" expanded="true" signature="213:253" ph="select * fro... emp" />
+              <marker date="1512452336312" expanded="true" signature="281:317" ph="select * fro... emp" />
+              <marker date="1512452336312" expanded="true" signature="372:424" ph="select * fro... emp" />
+              <marker date="1512452336312" expanded="true" signature="447:498" ph="select * fro... emp" />
+              <marker date="1512452336312" expanded="true" signature="654:697" ph="select * fro... emp" />
+              <marker date="1512452336312" expanded="true" signature="875:947" ph="select emp.e... emp" />
             </folding>
           </first_editor>
           <second_editor />
